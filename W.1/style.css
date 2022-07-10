@@ -1,0 +1,28 @@
+html {
+  background-color: rgba(0, 28, 83, 0.877);
+  background-image: url("spongebob\ 3.png");
+  background-repeat: no-repeat;
+  background-size: 1200px;
+}
+.leftUp {
+  color: rgb(155, 141, 35);
+  font-size: 25px;
+  margin-left: 50px;
+}
+.right {
+  font-family: cursive;
+
+  font-size: 20px;
+  color: rgb(209, 186, 10);
+  position: fixed;
+  left: 1220px;
+  bottom: 625px;
+}
+P {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 22px;
+  color: rgb(209, 186, 10);
+  position: fixed;
+  left: 1210px;
+  bottom: 140px;
+}
